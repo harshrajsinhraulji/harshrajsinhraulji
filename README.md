@@ -1,97 +1,157 @@
-<p align="center">
-  <img width="1200" height="300" alt="Harshrajsinh Raulji Banner" src="https://github.com/user-attachments/assets/000e7a04-9a68-4dee-ba26-4a0393a54b24" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshrajsinhraulji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:h.raulji2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=harshrajsinhraulji&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harshrajsinh%20Raulji&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Java%20Enthusiast%20%E2%80%A2%20CS%20Student&descSize=16&descAlignY=58&descColor=a0c4d8" />
 
-<table>
-  <tr valign="top">
-    <td width="60%">
-      <h1 align="left">👨‍💻 About Me</h1>
-      <p>
-        I'm a <strong>Computer Engineering student</strong> specializing in <strong>Java backend development</strong>, focused on building clean and reliable systems with Core Java, JDBC, and MySQL.
-      </p>
-      <ul>
-        <li>🌱 <strong>Currently Learning:</strong> Spring Boot & REST APIs</li>
-        <li>💬 <strong>Ask me about:</strong> Java, DSA, JDBC, & SOLID Principles</li>
-        <li>🎯 <strong>My Goal:</strong> A Summer 2026 backend development internship.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=harshrajsinhraulji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      <img height="150px" src="https://github-readme-streak-stats-gamma.vercel.app?user=harshrajsinhraulji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+clean%2C+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+JDBC+%7C+MySQL;Open+to+Summer+2026+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-<table align="center" cellpadding="5">
-  <tr valign="middle">
-    <td align="right"><strong>Languages:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    </td>
-  </tr>
-  <tr valign="middle">
-    <td align="right"><strong>Backend & DB:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat"/>
-    </td>
-  </tr>
-  <tr valign="middle">
-    <td align="right"><strong>Tools & Platforms:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-      <img src="https://img.shields.io/badge/InfinityFree-4693F8?style=for-the-badge" alt="InfinityFree"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </td>
-  </tr>
-</table>
+<br/>
 
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.raulji2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajsinhraulji)
+![Profile Views](https://komarev.com/ghpvc/?username=harshrajsinhraulji&label=Profile+Views&color=4FC3F7&style=for-the-badge)
+
+</div>
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+## 👨‍💻 About Me
+
+```java
+public class Harshrajsinh extends Developer {
+
+    String[] currentFocus  = { "Spring Boot", "REST APIs", "System Design" };
+    String   goal          = "Summer 2026 Backend Internship";
+    String   location      = "Vadodara, Gujarat, India 🇮🇳";
+
+    String[] strengths() {
+        return new String[]{ "Java", "JDBC", "MySQL", "SOLID Principles", "DSA" };
+    }
+
+    String greet() {
+        return "Building clean systems, one commit at a time.";
+    }
+}
+```
+
+- 🎓 Computer Engineering student passionate about **backend architecture and system design**
+- 🌱 Currently deepening my skills in **Spring Boot & RESTful API design**
+- 🔨 Enjoy building end-to-end systems from **database schema to servlet layer**
+- 💡 Strong believer in **clean code**, **SOLID principles**, and **meaningful abstractions**
+- 🎯 Actively seeking a **Summer 2026 backend development internship**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Backend & Database**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Tools & Platforms**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr valign="top">
     <td width="50%" align="center">
       <a href="https://github.com/harshrajsinhraulji/DBT-Sahayak">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=DBT-Sahayak&theme=tokyonight&hide_border=true" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=DBT-Sahayak&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
       </a>
-      <p>
-        <b>DBT-Sahayak</b><br>
-        Aadhaar-linked platform for automating Direct Benefit Transfers.<br>
-        Built with <strong>Java Servlets, JSP, and JDBC</strong>.
-      </p>
+      <br/><br/>
+      <strong>🏛️ DBT-Sahayak</strong><br/>
+      <sub>Aadhaar-linked platform automating Direct Benefit Transfers for government schemes. Features beneficiary verification, transfer tracking, and an admin dashboard.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Servlets-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JSP-007396?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/harshrajsinhraulji/GameDashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=GameDashboard&theme=tokyonight&hide_border=true" width="95%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=GameDashboard&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
       </a>
-      <p>
-        <b>GameDashboard</b><br>
-        A web dashboard with authentication and score tracking.<br>
-        Built using <strong>PHP, MySQL, and JavaScript</strong>.
-      </p>
+      <br/><br/>
+      <strong>🎮 GameDashboard</strong><br/>
+      <sub>Full-stack web dashboard with user authentication, session management, and real-time score tracking across multiple games.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
-<details align="center">
-  <summary>📈 View My Contribution Graph</summary>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshrajsinhraulji&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</details>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=harshrajsinhraulji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajsinhraulji&layout=compact&theme=tokyonight&hide_border=true&title_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="65%" src="https://github-readme-streak-stats-gamma.vercel.app?user=harshrajsinhraulji&theme=tokyonight&hide_border=true&ring=4FC3F7&fire=ff9800&currStreakLabel=4FC3F7" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshrajsinhraulji&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshrajsinhraulji&theme=tokyo-night&hide_border=true&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&area_color=203a43" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to collaborating on Java/backend projects!
+### Feel free to reach out — let's build something meaningful together.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
+</div>
