@@ -1,157 +1,305 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       WORLD CLASS README                      -->
+<!--                  Harshrajsinh Raulji — 2026                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harshrajsinh%20Raulji&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Java%20Enthusiast%20%E2%80%A2%20CS%20Student&descSize=16&descAlignY=58&descColor=a0c4d8" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+clean%2C+reliable+backend+systems;Java+%7C+Spring+Boot+%7C+JDBC+%7C+MySQL;Open+to+Summer+2026+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:0a3358&height=240&section=header&text=Harshrajsinh%20Raulji&fontSize=58&fontColor=58a6ff&fontAlignY=40&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20Java%20Engineer%20%E2%80%A2%20CS%20Student&descSize=17&descColor=8b949e&descAlignY=60" width="100%" />
 
 <br/>
 
-<!-- Social Links -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+complex+problems+into+clean+code+%F0%9F%9B%A0%EF%B8%8F;Java+%7C+Spring+Boot+%7C+JDBC+%7C+MySQL+%7C+SOLID;Available+for+Summer+2026+Backend+Internship+%F0%9F%9A%80;Building+reliable+systems%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.raulji2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.raulji2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajsinhraulji)
-![Profile Views](https://komarev.com/ghpvc/?username=harshrajsinhraulji&label=Profile+Views&color=4FC3F7&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=harshrajsinhraulji&label=Profile+Views&color=0078d4&style=for-the-badge)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 &nbsp; Who Am I?
 
 ```java
-public class Harshrajsinh extends Developer {
+/**
+ * A backend developer who believes great software starts with
+ * honest naming, intentional design, and a well-normalized schema.
+ *
+ * @author   Harshrajsinh Raulji
+ * @location Vadodara, Gujarat, India 🇮🇳
+ * @version  2026.1  (actively shipping)
+ */
+public class Harshrajsinh implements BackendDeveloper {
 
-    String[] currentFocus  = { "Spring Boot", "REST APIs", "System Design" };
-    String   goal          = "Summer 2026 Backend Internship";
-    String   location      = "Vadodara, Gujarat, India 🇮🇳";
+    // ── Identity ────────────────────────────────────────────────
+    String   degree     = "Computer Engineering @ GTU";
+    boolean  openToWork = true;        // ← Summer 2026 Internship
+    String   seeking    = "Backend Development Role";
 
-    String[] strengths() {
-        return new String[]{ "Java", "JDBC", "MySQL", "SOLID Principles", "DSA" };
+    // ── What I've Mastered ──────────────────────────────────────
+    String[] solid   = { "Core Java", "OOP", "SOLID Principles",
+                         "JDBC", "MySQL", "Servlets", "JSP" };
+
+    // ── What I'm Leveling Up ────────────────────────────────────
+    String[] loading = { "Spring Boot", "REST API Design",
+                         "System Design", "Microservices" };
+
+    // ── Outside the IDE ─────────────────────────────────────────
+    String[] beyond  = { "DSA / LeetCode", "Open Source",
+                         "Clean Code Advocacy" };
+
+    @Override
+    public String philosophy() {
+        return "Write code the next engineer will thank you for.";
     }
 
-    String greet() {
-        return "Building clean systems, one commit at a time.";
+    public boolean hireMe(String role) {
+        return openToWork && role.toLowerCase().contains("backend");
+        // returns: true
     }
 }
 ```
 
-- 🎓 Computer Engineering student passionate about **backend architecture and system design**
-- 🌱 Currently deepening my skills in **Spring Boot & RESTful API design**
-- 🔨 Enjoy building end-to-end systems from **database schema to servlet layer**
-- 💡 Strong believer in **clean code**, **SOLID principles**, and **meaningful abstractions**
-- 🎯 Actively seeking a **Summer 2026 backend development internship**
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔨 &nbsp; Currently Compiling
+
+```
+$ javac --progress Harshrajsinh.java
+
+  [████████████████]  99%  Core Java & OOP ..................... ✓ BUILD OK
+  [████████████████]  99%  SOLID Principles & Clean Code ....... ✓ BUILD OK
+  [████████████████]  99%  JDBC & Database Design .............. ✓ BUILD OK
+  [████████████████]  99%  Data Structures & Algorithms ......... ✓ BUILD OK
+  [█████████████░░░]  82%  Spring Boot & REST API Design ........ ⟳ ACTIVE
+  [██████████░░░░░░]  60%  System Design Fundamentals ........... ⟳ ACTIVE
+  [██████░░░░░░░░░░]  38%  Microservices & Cloud Basics .......... queued
+
+  ─────────────────────────────────────────────────────────────────
+  BUILD SUCCESSFUL — 4 tasks done · 2 in progress · 1 queued
+```
+
+<br/>
+
+---
+
+## ⚡ &nbsp; Tech Arsenal
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://skillicons.dev)
 
 **Backend & Database**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate,mysql,maven&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,idea,vscode,postman&theme=dark)](https://skillicons.dev)
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-<table border="0" cellpadding="12" cellspacing="0" width="100%">
-  <tr valign="top">
-    <td width="50%" align="center">
-      <a href="https://github.com/harshrajsinhraulji/DBT-Sahayak">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=DBT-Sahayak&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
-      </a>
-      <br/><br/>
-      <strong>🏛️ DBT-Sahayak</strong><br/>
-      <sub>Aadhaar-linked platform automating Direct Benefit Transfers for government schemes. Features beneficiary verification, transfer tracking, and an admin dashboard.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Servlets-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JSP-007396?style=flat-square"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/harshrajsinhraulji/GameDashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=GameDashboard&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7" width="100%" />
-      </a>
-      <br/><br/>
-      <strong>🎮 GameDashboard</strong><br/>
-      <sub>Full-stack web dashboard with user authentication, session management, and real-time score tracking across multiple games.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=harshrajsinhraulji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajsinhraulji&layout=compact&theme=tokyonight&hide_border=true&title_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="65%" src="https://github-readme-streak-stats-gamma.vercel.app?user=harshrajsinhraulji&theme=tokyonight&hide_border=true&ring=4FC3F7&fire=ff9800&currStreakLabel=4FC3F7" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshrajsinhraulji&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshrajsinhraulji&theme=tokyo-night&hide_border=true&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&area_color=203a43" />
-</div>
-
----
-
-<div align="center">
-
-### 💬 Open to collaborating on Java/backend projects!
-### Feel free to reach out — let's build something meaningful together.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+---
+
+## 🧠 &nbsp; Engineering Principles
+
+```java
+// Three rules I never break.
+
+/*─── Rule 1 ────────────────────────────────────────────────────────────*\
+│  "Write for the next developer, not the compiler."                      │
+│   Code is read 10× more than it is written. Name things honestly.       │
+\*───────────────────────────────────────────────────────────────────────*/
+
+/*─── Rule 2 ────────────────────────────────────────────────────────────*\
+│  "Design the schema before a single line of application code."           │
+│   Bad data models compound. A clean schema is the bedrock of            │
+│   every system worth maintaining.                                        │
+\*───────────────────────────────────────────────────────────────────────*/
+
+/*─── Rule 3 ────────────────────────────────────────────────────────────*\
+│  "A method that does one thing well beats five that do everything."      │
+│   Single Responsibility is not a principle — it is a discipline.        │
+\*───────────────────────────────────────────────────────────────────────*/
+```
+
+<br/>
+
+---
+
+## 🚀 &nbsp; Featured Projects
+
+<div align="center">
+<table border="0" cellpadding="14" width="100%">
+<tr valign="top">
+
+<td width="50%" align="center">
+
+<a href="https://github.com/harshrajsinhraulji/DBT-Sahayak">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=DBT-Sahayak&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="100%"/>
+</a>
+
+<br/><br/>
+
+**🏛️ DBT-Sahayak** &nbsp;·&nbsp; `Production-Grade`
+
+> *How do citizens access government welfare without standing in queues?*
+
+Aadhaar-linked platform automating end-to-end Direct Benefit Transfers — from beneficiary verification to fund disbursement tracking. Built with a normalized relational schema, Servlet-driven request handling, and a full JSP admin dashboard.
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=flat-square)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/harshrajsinhraulji/GameDashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshrajsinhraulji&repo=GameDashboard&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" width="100%"/>
+</a>
+
+<br/><br/>
+
+**🎮 GameDashboard** &nbsp;·&nbsp; `Full-Stack`
+
+> *How do you keep players engaged across multiple games on one platform?*
+
+Full-stack dashboard with secure session-based authentication, persistent score tracking, and a unified leaderboard. Engineered with server-side session management and an optimized MySQL schema for high-speed reads.
+
+<br/>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=harshrajsinhraulji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9" />
+&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrajsinhraulji&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+<img width="68%" src="https://github-readme-streak-stats-gamma.vercel.app?user=harshrajsinhraulji&theme=tokyonight&hide_border=true&ring=58a6ff&fire=ff9800&currStreakLabel=58a6ff&sideLabels=8b949e&background=0d1117" />
+
+</div>
+
+<br/>
+
+---
+
+## 🗓️ &nbsp; Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshrajsinhraulji&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0d2137" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 &nbsp; Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshrajsinhraulji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+<br/>
+
+---
+
+## 🐍 &nbsp; Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshrajsinhraulji/harshrajsinhraulji/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+<details>
+<summary>⚙️ &nbsp;<strong>How to enable the snake animation</strong></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+
+---
+
+<div align="center">
+
+**💼 &nbsp; Open to backend internships · Summer 2026**
+
+*Let's build something you're proud to maintain.*
+
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
+&nbsp;&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.raulji2005@gmail.com)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3358,50:0d2137,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
