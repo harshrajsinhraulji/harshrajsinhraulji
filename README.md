@@ -4,17 +4,25 @@
 
 <br/>
 
-Backend engineer building reliable systems with clean Java, disciplined design, and low-noise execution.
+Backend engineer building reliable systems with clean Java, disciplined design, and low-friction execution.
 
 <br/>
 
-[![● Open to Work](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-22c55e?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
+<a href="https://www.linkedin.com/in/harshrajsinhraulji/" title="Open to backend internships for Summer 2026">
+	<img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-22c55e?style=for-the-badge&logoColor=white" alt="Open to Work" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.raulji2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajsinhraulji)
+<a href="https://www.linkedin.com/in/harshrajsinhraulji/" title="LinkedIn profile">
+	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:h.raulji2005@gmail.com" title="Send me an email">
+	<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/harshrajsinhraulji" title="GitHub profile">
+	<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -45,5 +53,9 @@ Backend engineer building reliable systems with clean Java, disciplined design, 
 <div align="center">
 
 Available for backend roles where ownership, clarity, and execution quality matter.
+
+<br/>
+
+I make small, deliberate choices that reduce friction for the next engineer.
 
 </div>
