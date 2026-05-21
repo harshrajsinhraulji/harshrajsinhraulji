@@ -4,11 +4,11 @@
 
 <br/>
 
-Backend developer focused on reliable systems, clean code, and maintainable Java backend work.
+Backend engineer building reliable systems with clean Java, disciplined design, and low-noise execution.
 
 <br/>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
+[![● Open to Work](https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-22c55e?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
 
 <br/>
 
@@ -22,7 +22,7 @@ Backend developer focused on reliable systems, clean code, and maintainable Java
 
 ---
 
-## Tech Stack
+## Stack
 
 <div align="center">
 
