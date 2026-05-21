@@ -4,14 +4,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+complex+problems+into+clean+code+%F0%9F%9B%A0%EF%B8%8F;Java+%7C+Spring+Boot+%7C+JDBC+%7C+MySQL+%7C+SOLID;Available+for+Summer+2026+Backend+Internship+%F0%9F%9A%80;Building+reliable+systems%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+I build backend systems that stay readable, stable, and useful long after the first release.
+
+Open to Summer 2026 backend internships. I work well on teams that value clean architecture, steady ownership, and low-drama engineering.
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshrajsinhraulji/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.raulji2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshrajsinhraulji)
-![Views](https://komarev.com/ghpvc/?username=harshrajsinhraulji&label=Profile+Views&color=0078d4&style=for-the-badge)
 
 </div>
 
@@ -25,11 +26,38 @@ I build backend systems with a focus on correctness, maintainability, and clean 
 
 I care about code that scales in quality as much as it scales in traffic: clear naming, normalized schemas, predictable behavior, and implementation choices that make future changes cheaper.
 
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark)](https://skillicons.dev)
+
+**Backend & Database**
+
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate,mysql,maven&theme=dark)](https://skillicons.dev)
+
+**Tools & Workflow**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,idea,vscode,postman&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## What I Optimize For
+
+- Backend code that is easy to reason about under pressure
+- Data models that stay clean as the product evolves
+- APIs that are predictable for clients and maintainers
+- Implementations that favor reliability over cleverness
+- Standards that improve output without adding noise
+
 ## Profile
 
 ```java
 /**
- * Backend developer focused on reliable systems and clean implementation.
+ * Backend developer focused on reliable systems, clean data models,
+ * and implementation choices that compound well over time.
  *
  * @author   Harshrajsinh Raulji
  * @location Vadodara, Gujarat, India 🇮🇳
@@ -66,6 +94,14 @@ public class Harshrajsinh implements BackendDeveloper {
 	}
 }
 ```
+
+## Why Teams Like Working With Me
+
+- I keep the focus on maintainability, not just delivery.
+- I am comfortable with backend fundamentals that matter in real systems.
+- I prefer disciplined structure over noisy complexity.
+- I learn quickly, then pressure-test the result against implementation quality.
+- I add the most value where ownership and code quality both matter.
 
 ## GitHub Snapshot
 
